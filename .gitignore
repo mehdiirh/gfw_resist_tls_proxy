@@ -1,0 +1,14 @@
+.env
+venv
+.idea
+*.pyc
+*.sqlite3
+*.db
+test.py
+*.yaml
+
+# media
+**/.DS_Store
+
+# don't ignore
+!.gitkeep
